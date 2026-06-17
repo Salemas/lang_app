@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+*.db
+chroma_db/
+venv/
+node_modules/
+dist/
+
+.env
+*.egg-info/
+.svelte-kit/
